@@ -1,3 +1,6 @@
+## ATTENTION ! LA VERSION FINALE EST LA 'app_2/1' ! 
+
+
 # Java-Pokedeck
 Projet "Pokedeck" en JAVA
 
